@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
-public class Main {
+public class Part2 {
     public static void main(String[] args) {
         try {
             File myObj = new File("./src/input.txt");
