@@ -26,4 +26,10 @@ bin/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+
+.idea
+>>>>>>> parent of 1846cc3 (Removed irrelevant files from repository)
