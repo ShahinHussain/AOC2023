@@ -3,8 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AOC.iml" filepath="$PROJECT_DIR$/.idea/AOC.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AOCDAY1/AOCDAY1.iml" filepath="$PROJECT_DIR$/AOCDAY1/AOCDAY1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AOCDAY2/AOCDAY2.iml" filepath="$PROJECT_DIR$/AOCDAY2/AOCDAY2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOCDAY10/AOCDAY10.iml" filepath="$PROJECT_DIR$/AOCDAY10/AOCDAY10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOCDAY11/AOCDAY11.iml" filepath="$PROJECT_DIR$/AOCDAY11/AOCDAY11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOCDAY4/AOCDAY4.iml" filepath="$PROJECT_DIR$/AOCDAY4/AOCDAY4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOCDAY5/AOCDAY5.iml" filepath="$PROJECT_DIR$/AOCDAY5/AOCDAY5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOCDAY6/AOCDAY6.iml" filepath="$PROJECT_DIR$/AOCDAY6/AOCDAY6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOCDAY7/AOCDAY7.iml" filepath="$PROJECT_DIR$/AOCDAY7/AOCDAY7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOCDAY8/AOCDAY8.iml" filepath="$PROJECT_DIR$/AOCDAY8/AOCDAY8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AOCDAY9/AOCDAY9.iml" filepath="$PROJECT_DIR$/AOCDAY9/AOCDAY9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeForces/CodeForces.iml" filepath="$PROJECT_DIR$/CodeForces/CodeForces.iml" />
     </modules>
   </component>
 </project>
